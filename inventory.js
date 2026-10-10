@@ -1,4 +1,3 @@
-
 const STORAGE_KEY = "stockwise_inventory_demo_v1";
 
 window.stockwise = {
